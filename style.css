@@ -1,0 +1,27 @@
+.container {
+    border: 2px solid aqua;
+    width: 200px;
+    align-items: center; 
+    justify-content: center;
+}
+
+.isi-page {
+    width: 500px;
+    display: block;
+    border: 2px solid aqua;
+    position: relative;
+}
+
+label {
+/* float: left; */
+margin-left: 12px;
+margin-top: 12px;
+}
+
+.left {
+    float: left;
+}
+
+hr {
+    border: 1px solid gray;
+}
